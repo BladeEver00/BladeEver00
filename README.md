@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Salut, moi c’est Antoine Jeanny
 
-<!--
-**BladeEver00/BladeEver00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Développeur Web passionné par la performance, l’intuitivité et l’expérience utilisateur.  
+💼 Fondateur de [JWebDigital](https://creationsjny.hopto.org/) – création de sites web pour particuliers et petites entreprises.  
+🧪 Explorateur du web interactif, entre animations 3D et interfaces fluides.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projets phares
+
+- 🔧 [JWebDigital](https://creationsjny.hopto.org/) – Micro-entreprise spécialisée dans la création de sites web sur mesure.
+- 🧬 Laboratoire Créatif – Expérience interactive 3D pour démontrer mes compétences en animation et design.
+- 📦 [BladeFarming](https://github.com/BladeEver00/BladeFarming) – Automatisation agricole intelligente.
+- 🤖 [HAGRA-bot](https://github.com/BladeEver00/HAGRA-bot) – Bot officiel pour l’équipe Hagra.
+
+---
+
+## 🧠 Compétences
+
+### Front-End
+- React • Next.js • TypeScript  
+- Three.js • GSAP • HTML/CSS
+
+### Back-End
+- PHP • Express.js  
+- REST APIs • GraphQL
+
+### Outils
+- Git • Docker • Figma • Vercel
+
+---
+
+## 📈 Stats GitHub
+
+![Antoine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BladeEver00&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BladeEver00&layout=compact&theme=radical)
+
+---
+
+## 📬 Me contacter
+
+📧 jeanny.antoine@gmail.com  
+🌐 [www.jwebdigital.com](https://creationsjny.hopto.org/)  
+🔗 [LinkedIn](https://www.linkedin.com) • [GitHub](https://github.com/BladeEver00)
+
+---
+
+> “Créer, c’est traduire une idée en expérience. Le code est mon langage, le web mon terrain de jeu.”  
+> — Antoine Jeanny
