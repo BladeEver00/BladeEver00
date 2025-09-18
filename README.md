@@ -33,8 +33,8 @@
 ## 📈 Stats GitHub
 
 
-![Stats](https://github-readme-stats-bladeever00.vercel.app/api?username=BladeEver00&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-bladeever00.vercel.app/api/top-langs?username=BladeEver00&layout=compact&theme=radical)
+![Stats](github-readme-stats-gcsw45grq-antoines-projects-e18866bc.vercel.app/api?username=BladeEver00&show_icons=true&theme=radical)
+![Top Langs]github-readme-stats-gcsw45grq-antoines-projects-e18866bc.vercel.app/api/top-langs?username=BladeEver00&layout=compact&theme=radical)
 
 ---
 
